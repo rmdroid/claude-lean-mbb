@@ -219,13 +219,13 @@ Pull Requests sind willkommen! Besonders für:
 
 ## 👤 Autor
 
-**Rob (RM-ON Consulting)**
+**Robert Meyer**
 
 Freelance AI Consultant & Instructor mit 15+ Jahren Beratungserfahrung und PRINCE2 Zertifizierung. Spezialisiert auf KI-Transformation für KMU und Behörden.
 
-- 🌐 [top-beraternetzwerk.de](https://top-beraternetzwerk.de)
-- 📚 Autor von 50+ Büchern zu KI-Themen
-- 💼 [LinkedIn](https://linkedin.com/in/...)
+- 🌐 [ai.rm-on.de](https://ai.rm-on.de)
+- 📚 Autor zahlreicher KI-Fachbücher
+- 💼 [LinkedIn](https://www.linkedin.com/in/robert-meyer-666b39315)
 
 ---
 
