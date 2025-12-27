@@ -1,4 +1,4 @@
-# 🎯 Claude Lean MBB
+# 🎯 Claude Lean MBB by Robert Meyer
 
 > **Dein Master Black Belt in der Tasche** – Lean Six Sigma Beratung auf höchstem Niveau, direkt in Claude integriert.
 
