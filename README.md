@@ -82,11 +82,12 @@ Fertige Excel- und PowerPoint-Vorlagen:
 
 3. **Claude neu starten** und fertig!
 
-**Option B: Manuell**
+**Option B: Import über Claude Desktop**
 
-1. Lade die [neueste Release-ZIP](https://github.com/rmdroid/claude-lean-mbb/releases) herunter
-2. Entpacke den `lean-mbb` Ordner
-3. Kopiere ihn in dein Claude Skills-Verzeichnis unter `/mnt/skills/user/`
+1. Lade die [`lean-mbb.zip`](assets/lean-mbb.zip) aus dem Repository herunter
+2. Öffne Claude Desktop → **Einstellungen** (⚙️) → **Fähigkeiten**
+3. Klicke auf **Skill importieren** und wähle die heruntergeladene ZIP-Datei
+4. Der Skill wird automatisch installiert und ist sofort einsatzbereit
 
 ### Verzeichnisstruktur nach Installation
 
